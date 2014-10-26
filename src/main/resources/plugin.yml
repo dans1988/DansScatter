@@ -1,0 +1,14 @@
+name: DansScatter
+main: pl.dans.plugins.scatter.DansScatter
+version: 0.1
+  
+commands:
+  scatterall:
+    description: Scatters all players individually
+    usage: /<command> <world> <radius> <minScatterDistance>
+    permission: dansscatter.scatterall
+    permission-message: You don't have <permission>
+permissions:
+    dansscatter.scatterall:
+        description: Allows to scatter all players individually
+        default: op
