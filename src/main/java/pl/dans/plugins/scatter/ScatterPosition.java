@@ -8,7 +8,7 @@ package pl.dans.plugins.scatter;
 
 /**
  *
- * @author DanielWegner
+ * @author Dans
  */
 public class ScatterPosition {
     private final double x;

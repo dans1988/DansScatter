@@ -8,7 +8,7 @@ package pl.dans.plugins.scatter.listeners;
 
 /**
  *
- * @author DanielWegner
+ * @author Dans
  */
 public class PlayerJoinListener {
     

@@ -28,7 +28,7 @@ import pl.dans.plugins.scatter.ScatterPosition;
 
 /**
  *
- * @author DanielWegner
+ * @author Dans
  */
 public class ScatterCommandExecutor implements CommandExecutor, Listener {
 

@@ -13,7 +13,7 @@ import pl.dans.plugins.scatter.executors.ScatterCommandExecutor;
 
 /**
  *
- * @author DanielWegner
+ * @author Dans
  */
 public class DansScatter extends JavaPlugin {
     
