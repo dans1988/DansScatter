@@ -25,9 +25,9 @@ public class DansScatter extends JavaPlugin {
         ScatterCommandExecutor executor = new ScatterCommandExecutor(this);
         
         getCommand("scatterall").setExecutor(executor);
+        getCommand("scatterplayer").setExecutor(executor);
         
         getServer().getPluginManager().registerEvents(executor, this);
-        //getCommand("scatterteams").setExecutor(executor);
         
     }
 

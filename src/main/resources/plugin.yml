@@ -8,6 +8,11 @@ commands:
     usage: /<command> <world> <radius> <minScatterDistance>
     permission: dansscatter.scatterall
     permission-message: You don't have <permission>
+  scatterplayer:
+    description: Scatters all players individually
+    usage: /<command> <world> <radius> <minScatterDistance>
+    permission: dansscatter.scatterplayer
+    permission-message: You don't have <permission>
 permissions:
     dansscatter.scatterall:
         description: Allows to scatter all players individually
